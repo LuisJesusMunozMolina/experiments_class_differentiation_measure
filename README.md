@@ -1,5 +1,5 @@
 # Class Differentiation Measure
-[TOC]
+[[TOC]]
 
 ## Introduction
 
