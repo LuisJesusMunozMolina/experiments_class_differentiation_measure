@@ -1,5 +1,4 @@
 # Class Differentiation Measure
-[[TOC]]
 
 ## Introduction
 
@@ -23,6 +22,8 @@ In case that the already programmed experiments are wanted to be run again then 
 In case that the reader wants to conduct new experiments on new datasets then it is highly recomended to create a new notebook, copy-paste all the functions and execute the instructions in the same order than exposed in both, 20221029 Cell Phone Dataset Experiment new intersection measure.ipynb. or 20221119 Iris Dataset Experiment new intersection measure.ipynb. The steps taken in order to conduct the experiments can be found in the paper and also can be followed from the structure of these two notebooks.
 
 ## Functions definitions
+In this section the definition of the functions used along the development of this proejct can be found. Please note that not all the functions defined in this section are used during the conduction of the experiments.
+
 ```
 def distance_to_point(point,array):
     dist = []
